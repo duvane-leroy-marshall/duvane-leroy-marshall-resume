@@ -7,13 +7,18 @@ Cybersecurity Student | Part Time | 2023 – Present
 William L. Rutherford | IT End User Support | Mississauga, ON | July 2019 – Oct. 2020
 -	Provided technical support and assistance to end-users regarding software applications.
 -	Provided troubleshooting, issue resolution, and user guidance.
+-	Performed administrative duties such as account restrictions, managing access to the network, and creating, modifying, or deleting user accounts.
+-	Performed general PC maintenance such as updates, virus scans, and hardware components.
+-	Offered suport for Microsoft Office 365 applications for users.
+-	Managed multiple Windows Servers: 2003, 2008 R2, and 2012.
+-	Managed Group Policy Management.
 
 <h2>🏫EDUCATION</h2> 
 	
 Sheridan College Institute of Technology | Computer Engineering | Brampton, ON | December 2017
 <br>
 
-Notre Dame Catholic Secondary School | Diploma, High School | Brampton, ON | June 2012
+Notre Dame Catholic Secondary School | High School Diploma | Brampton, ON | June 2012
 
 <h2>📃CERTIFICATIONS</h2>
 
