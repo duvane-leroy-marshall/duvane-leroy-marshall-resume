@@ -4,7 +4,11 @@
 
 Cybersecurity Student | Part Time | 2023 – Present
 
+- Currently enrolled in the SOC Analyst path on HackTheBox Academy:
+  - [SOC Analyst Job Role Path](https://academy.hackthebox.com/path/preview/soc-analyst)
+  
 William L. Rutherford | IT End User Support | Mississauga, ON | July 2019 – Oct. 2020
+
 -	Provided technical support and assistance to end-users regarding software applications.
 -	Provided troubleshooting, issue resolution, and user guidance.
 -	Performed administrative duties such as account restrictions, managing access to the network, and creating, modifying, or deleting user accounts.
@@ -23,7 +27,6 @@ Notre Dame Catholic Secondary School | High School Diploma | Brampton, ON | June
 <h2>📃CERTIFICATIONS</h2>
 
 - <b>Google Cybersecurity Professional Certificate</b>
-- <b>CompTIA Security+ (Expected 2/2024) </b>
 
 <h2>💻KEY PROJECTS</h2>
 
